@@ -32,7 +32,7 @@ Open Developer Information: View information about the developer
  - `pkg update && pkg upgrade`
  - `pkg install python`
  - `pip install colorama `
- - `https://github.com/sadbroshanto/Basic`
+ - `git clone https://github.com/sadbroshanto/Basic`
 
 ### [+] Usage
  - `ls`
